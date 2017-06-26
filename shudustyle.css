@@ -1,0 +1,49 @@
+#title{
+    height:100px;
+    width:300px;
+    border:1px solid #000000;
+    margin-left:500px;
+    margin-top:50px;
+}
+#big{
+    width:900px;
+    height:700px;
+    margin-top:20px;
+    margin-left:300px;
+}
+#content{
+    width:600px;
+    height:600px;
+    border:1px solid #000000;
+    margin-left:20px;
+    float:left;
+}
+#answer{
+    width:500px;
+    height:500px;
+    margin-top:20px;
+    border:1px solid #000000;
+}
+#answer table{
+    border:1px solid #000000;
+    margin-top:20px;
+}
+#sort{
+    width:200px;
+    height:200px;
+    float:left;
+    margin-left:20px;
+}
+#sortface{
+    height:300px;
+    width:300px;
+    border:1px solid #000000;
+    margin-left:500px;
+    margin-top:50px;
+}
+#but{
+    height:50px;
+    width:300px;
+    margin-left:500px;
+    margin-top:30px;
+}
